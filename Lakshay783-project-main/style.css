@@ -55,6 +55,11 @@ h1 {
   cursor: default;
 }
 
+.cell.winner {
+  background: #3d3400;
+  color: #f9ca24;
+}
+
 .reset {
   background: #6c5ce7;
   color: #fff;
@@ -68,3 +73,4 @@ h1 {
 .reset:hover {
   background: #5a4bd1;
 }
+
